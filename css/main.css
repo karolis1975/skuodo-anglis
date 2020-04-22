@@ -5,7 +5,7 @@
 }
 
 body {
-  background: whitesmoke;
+  background: white;
   color: #272727;
   font-family: "Montserrat", sans-serif;
   width: 100%;
@@ -26,7 +26,7 @@ a {
   padding: 10px 20px;
   z-index: 4;
   border-radius: 100px;
-  color: whitesmoke;
+  color: white;
   text-transform: uppercase;
   font-weight: bold;
   letter-spacing: 1px;
@@ -55,7 +55,7 @@ header .menu-btn .btn-line {
   width: 28px;
   height: 3px;
   margin: 0 0 5px 0;
-  background: whitesmoke;
+  background: white;
   transition: all 0.3s ease-out;
 }
 header .menu-btn.close .btn-line:nth-child(1) {
@@ -139,7 +139,7 @@ header nav ul li a {
   padding-top: 35px;
   display: block;
   height: 100%;
-  color: whitesmoke;
+  color: white;
   font-size: 0.9rem;
   font-weight: bold;
   text-transform: uppercase;
@@ -179,7 +179,7 @@ header .header-overlay {
   opacity: 0.6;
 }
 header .header-content {
-  color: whitesmoke;
+  color: white;
   z-index: 3;
   width: 100%;
 }
@@ -190,7 +190,7 @@ header .header-content h1 {
   font-size: 3.5rem;
 
   text-shadow: 2px 2px 2px black;
-  color: whitesmoke;
+  color: white;
 }
 header .header-content p {
   text-shadow: 2px 2px 2px black;
@@ -394,7 +394,7 @@ main #pristatymas {
   background: #272727;
 
   padding-top: 100px;
-  color: whitesmoke;
+  color: white;
 }
 main #pristatymas ul {
   height: 100%;
@@ -528,7 +528,7 @@ footer #kontaktai #second li:nth-child(1) a {
   display: block;
   width: 50px;
   height: 50px;
-  color: whitesmoke;
+  color: white;
   border-radius: 50%;
   transition: all 0.3s ease;
 }
